@@ -547,6 +547,23 @@ footer {
   .link_item {
     margin: 0;
   }
+
+  .poll_title {
+    font-size: 20px;
+    width: 80%;
+  }
+
+  .link {
+    font-size: 16px;
+  }
+
+  .links_title {
+    font-size: 24px;
+  }
+
+  #links {
+    padding-top: 0;
+  }
 }
 
 @media (max-width: 320px) {
@@ -610,7 +627,8 @@ footer {
   }
 
   .poll_title {
-    font-size: 18px;
+    font-size: 16px;
+    width: 90%;
   }
 
   #movie {
